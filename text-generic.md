@@ -30,8 +30,14 @@ text block contains multiple sentences.
 Adjacent sentences in a paragraph are separated by exactly one space character.
 
 ## Spelling
+### B
+business owner *(correct replacement of ~merchant~)*
+
 ### E
 e-commerce
+
+### M
+~merchant~ ***DEPRECATED*** See "business owner"
 
 ### O
 Offline2On
@@ -43,7 +49,3 @@ Offline2On
 > `Offline2On.com` as the hostname.  When technologically awkward or
 > unavoidable, `offline2on.com` is acceptable.  All other casings, such as
 > `Offline2on.com` and `offline2On.com`, should never be used.
-
-## Terminology
-### Merchants
-Merchants will be referred to as "business owners".
