@@ -43,3 +43,7 @@ Offline2On
 > `Offline2On.com` as the hostname.  When technologically awkward or
 > unavoidable, `offline2on.com` is acceptable.  All other casings, such as
 > `Offline2on.com` and `offline2On.com`, should never be used.
+
+## Terminology
+### Merchants
+Merchants will be referred to as "business owners".
