@@ -2,6 +2,8 @@ This repository contains the house style for the Offline2On website.  The
 following are each of our explicitly defined house styles:
 
 * [Offline2On house style for generic text](text-generic.md)
+* [Offline2On house style for web graphics](graphics-web.md)
+* [Offline2On house style for print graphics](graphics-print.md)
 
 ## When to Use
 

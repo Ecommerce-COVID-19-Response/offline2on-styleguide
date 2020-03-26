@@ -36,6 +36,12 @@ Use an ampersand character (`&`) in abbreviated text, such as R&D or Q&A.
 Write out the word "and" in unabbreviated text, such as *"custom development
 and support"* or *"shipping and logistics"*.
 
+### Font (main logo)
+Helvetica
+
+### Font (web font stack)
+    BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif
+
 ### Spaces Between Sentences
 Adjacent sentences in a paragraph are separated by exactly one space character.
 
