@@ -2,6 +2,10 @@
 
 **Foundation Style: [The Chicago Manual of Style, 17th edition](https://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)**
 
+*Note: Brand names and legal names are excluded from the Offline2On house
+style.  For example, the correct spelling of AT&T is AT&T — not because of
+Offline2On's rules about ampersands, but because it's a brand name.*
+
 # Supplements and Overrides
 ## Grammar
 ### Commas
@@ -26,7 +30,13 @@ In lists, the text block of a list item never ends with a period, unless the
 text block contains multiple sentences.
 
 ## Typography
-### Spaces between sentences
+### Ampersands and "and"
+Use an ampersand character (`&`) in abbreviated text, such as R&D or Q&A.
+
+Write out the word "and" in unabbreviated text, such as *"custom development
+and support"* or *"shipping and logistics"*.
+
+### Spaces Between Sentences
 Adjacent sentences in a paragraph are separated by exactly one space character.
 
 ## Spelling
