@@ -25,6 +25,11 @@ Headings and subheadings never end with a period, even if they happen to sound
 like a real sentence.
 
 ## Lists
+### Numbered Headings
+Numbered headings are formatted with a period, and the number is always written with a numeral.  Example:
+> #### 1. Thing Number One
+> #### 2. Thing Number Two
+
 ### Punctuation
 In lists, the text block of a list item never ends with a period, unless the
 text block contains multiple sentences.
@@ -36,15 +41,24 @@ Use an ampersand character (`&`) in abbreviated text, such as R&D or Q&A.
 Write out the word "and" in unabbreviated text, such as *"custom development
 and support"* or *"shipping and logistics"*.
 
+### Numbers
+Single-digit numbers are always written out: "five", not "5".
+
+Multi-digit numbers, or numbers with punctuation such as a decimal or a dollar sign, are always written with digits.
+
 ### Spaces Between Sentences
 Adjacent sentences in a paragraph are separated by exactly one space character.
 
 ## Spelling
 ### B
+brick-and-mortar
+
 business owner *(correct replacement of ~merchant~)*
 
 ### E
 e-commerce
+
+email
 
 ### M
 ~merchant~ ***DEPRECATED*** See "business owner"
